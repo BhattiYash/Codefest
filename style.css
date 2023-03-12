@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.lg{
+    width: 101px;
+    height: 61px;
+}
+.content{
+    margin-top: 2%;
+}
+video{
+    border-radius: 10px;
+    width: 1116px;
+    height: 370px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.clr{
+    background-color: rgba(123, 127, 131, 0.295);
+}
